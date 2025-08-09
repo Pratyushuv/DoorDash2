@@ -1169,18 +1169,19 @@ background-color: #fef1ee;
 .extra .main-title{
     text-align: center;
     font-family:  "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    font-size: 18px;
+    font-size: 32px;
     font-weight: 700;
-    line-height: 22px;
+    line-height: 40px;
     color: #191919ff;
 
       width: 100%;
-    max-width: 300px;
+    max-width: 524px;
     margin-left: auto;
     margin-right: auto;
      /* margin-top: -250px; */
      margin-bottom: 10px;
      letter-spacing: -0.01px;
+     /* white-space: nowrap; */
 
 
    
@@ -2026,9 +2027,9 @@ footer span{
     line-height: 22px;
     color: white;
     width: 125px;
-    height: 38px;
+    height: 39px;
     text-align: center;
-    padding: 7px;
+    padding: 8px;
     margin-top: 30px;
     letter-spacing: -0.01px
 }
