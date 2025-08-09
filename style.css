@@ -2664,7 +2664,7 @@ footer .section2{
     gap: 5px;
     background-color: #ffffff;
     border-radius: 20px;
-    width: 197px;
+    width: 204px;
     justify-content: center;
     letter-spacing: -0.01px;
     align-items: center;
@@ -2675,7 +2675,8 @@ footer .section2{
     line-height: 20px;
     font-family:  "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     margin-top: 3px;
-        box-shadow: inset 0 0 0 1px cubic-bezier(0.4,0.4,0,1);
+        /* box-shadow: inset 0 0 0 1px cubic-bezier(0.4,0.4,0,1); */
+    border: none;
 }
 
 .saved-logo{
